@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643880315 source:c:\users\uchenik\desktop\sort\main.cpp
+	"sortic.h"
+
+1643875644 c:\users\uchenik\desktop\sort\sortic.h
+	<iostream>
+	<vector>
+	<string>
+
+1643875712 source:c:\users\uchenik\desktop\sort\func.cpp
+	"sortic.h"
+
